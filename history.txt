@@ -1,0 +1,20 @@
+*   366c012 merge-commit 2
+|\  
+| * 2d8c308 feature2 change
+* |   1167e5a merge-commit 1
+|\ \  
+| * | 33af900 feature1 change
+| |/  
+| * 6b5b4cf add requirements.txt 5
+| * 4896405 add requirements.txt 4
+| | * a2df08e добавлена строка 'зачет (pr_feature)'
+| | * 3114203 add requirements.txt 5
+| | * 4da5568 add requirements.txt 4
+| |/  
+|/|   
+* | f4926e8 добавлен зачет после отката
+|/  
+* e98cbaa add requirements.txt 3
+* e47499b add requirements.txt 2
+* c5c9935 add requirements.txt 1
+* 873f4cb init
